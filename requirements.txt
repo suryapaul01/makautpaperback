@@ -4,4 +4,3 @@ Flask-CORS==4.0.0
 SQLAlchemy==2.0.23
 python-dotenv==1.0.0
 gunicorn==21.2.0
-python-3.10.12
